@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Added basic usage examples to README
 - Verified compatibility with latest runtime version
+
+## 2026-04-15
+- Documented config options
+- Added healthcheck endpoint stub
